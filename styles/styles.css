@@ -115,7 +115,7 @@ ul li {
 
 .contact-info {
     padding: 22px 617px 69px 64px;
-    background-image: url(/images/gradient1.png), url(/images/watch.png);
+    background-image: url(../images/gradient1.png), url(../images/watch.png);
     background-repeat: no-repeat;
 }
 
